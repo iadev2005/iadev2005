@@ -1,13 +1,13 @@
 # ¡Hola! 👋 Soy IADEV
 
 <div align="center">
-  <img src="logo.jpg" alt="IADEV Logo" width="200" height="200" style="border-radius: 50%"/>
+  <img src="background.jpg" alt="IADEV Background" width="200" height="200" style="border-radius: 50%"/>
 </div>
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](TU_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iadev2005)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](TU_PORTFOLIO)
 
 </div>
@@ -53,8 +53,8 @@ Estudiante de la Universidad Católica Andrés Bello (UCAB) en Bolívar, Venezue
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iadev2005&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iadev2005&layout=compact&theme=radical)
 
 </div>
 
@@ -69,6 +69,3 @@ Estudiante de la Universidad Católica Andrés Bello (UCAB) en Bolívar, Venezue
 </div>
 
 ---
-<div align="center">
-  <img src="background.jpg" alt="Background" width="100%" height="200" style="object-fit: cover;"/>
-</div>
