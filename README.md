@@ -6,9 +6,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-aliendres-271082255)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iadev2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](TU_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-iadev.vercel.app/)
 
 </div>
 
@@ -42,13 +42,6 @@ Estudiante de la Universidad Católica Andrés Bello (UCAB) en Bolívar, Venezue
   - APIs y servicios web
   - Arquitectura de software
 
-## 🎨 UCAB Colors
-
-<div style="display: flex; gap: 10px;">
-  <div style="background-color: #ffc526; width: 100px; height: 20px;"></div>
-  <div style="background-color: #047732; width: 100px; height: 20px;"></div>
-</div>
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -64,7 +57,8 @@ Estudiante de la Universidad Católica Andrés Bello (UCAB) en Bolívar, Venezue
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iadev0721@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584125849038)
 
 </div>
 
