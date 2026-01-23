@@ -1,65 +1,51 @@
-# ¡Hola! 👋 Soy IADEV
-
 <div align="center">
-  <img src="background.jpg" alt="IADEV Background" width="200" height="200" style="border-radius: 50%"/>
-</div>
+  <img src="https://github.com/iadev2005.png" alt="Profile" width="120" style="border-radius: 50%; border: 2px solid #30363d;" />
 
-<div align="center">
+  # Ignacio Aliendres (IADEV)
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-aliendres-271082255)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iadev2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-iadev.vercel.app/)
-
-</div>
-
-## 🎓 Sobre mí
-
-Estudiante de la Universidad Católica Andrés Bello (UCAB) en Bolívar, Venezuela. Me especializo en desarrollo Frontend y Middleware, con pasión por crear experiencias de usuario excepcionales.
-
-## 💻 Stack Tecnológico
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</div>
-
-## 🌟 Áreas de Enfoque
-
-- 🎨 **Frontend Development**
-  - Desarrollo de interfaces modernas y responsivas
-  - Optimización de rendimiento
-  - Accesibilidad web
-
-- 🔄 **Middleware Development**
-  - Integración de sistemas
-  - APIs y servicios web
-  - Arquitectura de software
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
+  ### 🚀 Software Engineer & Automation Specialist
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iadev2005&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iadev2005&layout=compact&theme=radical)
+  <p>
+    <em>Transformando ideas complejas en sistemas eficientes y escalables.</em>
+  </p>
 
-</div>
-
-## 📫 Contacto
-
-¿Interesado en colaborar? ¡No dudes en contactarme!
-
-<div align="center">
+  <a href="https://portfolio-iadev.vercel.app/">
+    <img src="https://img.shields.io/badge/VISITA_MI_PORTAFOLIO_WEB-255E63?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010" alt="Portfolio" height="45" />
+  </a>
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iadev0721@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584125849038)
+  <br/><br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ignacio-aliendres-271082255)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iadev0721@gmail.com)
 
 </div>
 
 ---
+
+### 👨‍💻 Sobre mí
+
+Más que escribir código, diseño **soluciones**. Mi enfoque combina la ingeniería de software tradicional con herramientas modernas de automatización para reducir la deuda técnica y acelerar los tiempos de entrega.
+
+Me especializo en arquitecturas limpias, integración de sistemas y optimización de flujos de trabajo.
+
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+Dominio de desarrollo Backend, Frontend moderno y gestión de datos.
+
+| **Lenguajes & Core** | **Backend & Automatización** | **Frontend & Web** | **Bases de Datos & Infra** |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| | **APIs RESTful** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iadev2005&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iadev2005&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9" height="150" alt="languages graph" />
+</div>
