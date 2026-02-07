@@ -46,6 +46,6 @@ Dominio de desarrollo Backend, Frontend moderno y gestión de datos.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iadev2005&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iadev2005&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iadev2005&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iadev2005&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
