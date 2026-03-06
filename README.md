@@ -24,9 +24,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Más que escribir código, diseño **soluciones**. Mi enfoque combina la ingeniería de software tradicional con herramientas modernas de automatización para reducir la deuda técnica y acelerar los tiempos de entrega.
-
-Me especializo en arquitecturas limpias, integración de sistemas y optimización de flujos de trabajo.
+Desarrollador Full Stack orientado a la creación de soluciones de software de alto impacto. Combino el diseño de arquitecturas limpias con estrategias de automatización para acelerar el time-to-market y garantizar la excelencia técnica.
 
 ---
 
